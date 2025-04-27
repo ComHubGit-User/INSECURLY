@@ -19,4 +19,4 @@ Legal Consequences: Tampering with or bypassing security measures may violate lo
 
 Important Note: If you are working in a network security or penetration testing capacity, it's crucial to ensure you have explicit permission from the system's administrator before attempting any sort of bypass or vulnerability testing. Unauthorized actions can have serious consequences. <mark>Not for students to use without permission</mark>
 
-We are not to blame for the consequences if you choose to apply this code.
+<strong>We are not to blame for the consequences if you choose to apply this code.</strong>
